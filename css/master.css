@@ -888,7 +888,7 @@ header {
   margin-left: 110px;
 }
 
-@media (max-width:455px) {
+@media (max-width:500px) {
   .projects-page header .logo {
     margin-left: auto !important;
     margin-right: auto !important;
@@ -903,7 +903,7 @@ header {
   margin-bottom: 2px;
 }
 
-@media (max-width:455px) {
+@media (max-width:500px) {
   .projects-page header {
     flex-direction: column;
   }
@@ -924,7 +924,7 @@ header {
   margin-right: 110px;
 }
 
-@media (max-width:455px) {
+@media (max-width:500px) {
   .projects-page header ul.main {
     margin-left: auto !important;
     margin-right: auto !important;
@@ -947,7 +947,7 @@ header ul.main li {
   margin-left: 45px !important;
 }
 
-@media (max-width:455px) {
+@media (max-width:500px) {
   .projects-page header ul.main li {
     margin-left: 0 !important;
   }
